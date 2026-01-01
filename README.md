@@ -14,8 +14,8 @@ Currently focused on strengthening my fundamentals and building solid, well-stru
 - **CivicHelp**  
   iOS app built with Swift & SwiftUI that helps users study U.S. civics concepts using structured data and clean UI.
 
-- **MoodWell**  
-  A mental-wellness focused application developed as part of a team project, centered on tracking emotions and improving self-awareness.
+- **Moodify**  
+  Web application that screens user emotions and generates a personalized music playlist based on mood analysis, combining frontend logic with emotion-based recommendation flow.
 
 - **AI Resume Analyzer** *(coming soon)*  
   Python-based project that analyzes resumes and provides structured feedback using NLP techniques.
