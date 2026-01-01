@@ -41,8 +41,8 @@ Currently focused on strengthening my fundamentals and building solid, well-stru
 
 ## 📬 Reach Out
 
-- 📧 Email: kamillamamatova.km@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/kamilla-mamatova  
+- 📧 Email: kamillaamiri30@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/kamilla-urunboeva/
 
 ---
 <!---
