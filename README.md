@@ -1,7 +1,7 @@
 
 
 
-x## Hi, I’m Kamilla 👋  
+ Hi, I’m Kamilla 👋  
 Computer Science student(UCF) | Aspiring Software Engineer  
 
 I enjoy building practical applications that combine clean UI, logic, and real-world problems.  
