@@ -17,9 +17,8 @@ Currently focused on strengthening my fundamentals and building solid, well-stru
 - **Moodify**  
   Web application that screens user emotions and generates a personalized music playlist based on mood analysis, combining frontend logic with emotion-based recommendation flow.
 
-- **AI Resume Analyzer** *(coming soon)*  
-  Python-based project that analyzes resumes and provides structured feedback using NLP techniques.
-
+- **Tarmac**   
+  Tarmac is a SwiftUI-based iOS app that transforms flight delays into optimized short trips. It integrates real-time flight data, Yelp/MapKit APIs, and an AI planner to generate dynamic,traffic-aware itineraries. The app continuously monitors schedule changes and provides live updates, ensuring users can explore nearby locations without risking their flight.
 ---
 
 ## 🧠 Tech Stack
@@ -32,6 +31,7 @@ Currently focused on strengthening my fundamentals and building solid, well-stru
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://shields.io)
 
 ### Tools & Workflow
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
